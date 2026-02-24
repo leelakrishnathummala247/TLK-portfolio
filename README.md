@@ -1,4 +1,6 @@
-# Welcome to your Lovable project
+# Personal Portfolio Website of Thummala Leela Krishna
+
+_Personal Portfolio website of Thummala Leela Krishna_
 
 ## Project info
 

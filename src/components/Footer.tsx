@@ -13,6 +13,9 @@ const Footer = () => (
     <p className="text-xs text-muted-foreground">
       © 2025 Thummala Leela Krishna. All rights reserved.
     </p>
+    <p className="text-xs text-muted-foreground mt-1">
+      Built by Thummala Leela Krishna
+    </p>
   </footer>
 );
 
