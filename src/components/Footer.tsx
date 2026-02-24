@@ -11,10 +11,10 @@ const Footer = () => (
       </a>
     </div>
     <p className="text-xs text-muted-foreground">
-      © 2025 Thummala Leela Krishna. All rights reserved.
+      © {new Date().getFullYear()} Thummala Leela Krishna.
     </p>
     <p className="text-xs text-muted-foreground mt-1">
-      Built by Thummala Leela Krishna
+      Building intelligent systems for the future
     </p>
   </footer>
 );
